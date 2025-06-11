@@ -59,8 +59,9 @@
 ## 📫 تواصل معايا
 
 - 📧 yosefmekawy987@gmail.com  
-- 🎥 قناة اليوتيوب: **El-Haker**  
-- 🌍  موقع **El Haker Academy**
+- 🎥 قناة اليوتيوب: **El-Haker**
+- https://www.youtube.com/@El_Haker-u2n
+- 🌍  موقع **El Haker Academy**                                                                                                                                     
 [https://github.com/Yousef-Mekawy/El-Haker-Academy..git](https://yousef-mekawy.github.io/El-Haker-Acadmy./)
 
 ---
